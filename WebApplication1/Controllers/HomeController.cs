@@ -23,7 +23,11 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Reglement()
+        {
+            return View();
+        }
+        public IActionResult Carte()
         {
             return View();
         }
