@@ -8,7 +8,6 @@ namespace WebApplication1.Models
     public class Organisation
     {
         public int Id { get; set; }
-        public Personne Personneid { get; set; }
 
         public Poste Poste { get; set; }
 
